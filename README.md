@@ -15,7 +15,7 @@ const goodOptions = {
             module: 'good-formatters',
             name: 'Apache',
             // pre-defined formats are 'combined', 'common', 'referrer'
-            args: [{ format: '' }]
+            args: [{ format: 'common' }]
         }, {
             module: 'good-file',
             args: ['./apache-log.txt']
