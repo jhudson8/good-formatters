@@ -1,6 +1,6 @@
 {
   "name": "good-formatters",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Formatters for hapijs/good",
   "main": "lib/index.js",
   "repository": {
