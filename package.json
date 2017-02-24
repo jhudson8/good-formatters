@@ -1,8 +1,8 @@
 {
   "name": "good-formatters",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Formatters for hapijs/good",
-  "main": "index.js",
+  "main": "lib/index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/jhudson8/good-formatters.git"
